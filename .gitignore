@@ -41,6 +41,9 @@ logs/
 Thumbs.db
 .vscode/
 .idea/
+*.mp4
+*.mov
+*.zip
 
 ##################################
 # Coverage / Testing
