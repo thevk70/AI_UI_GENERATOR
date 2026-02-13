@@ -242,11 +242,11 @@ Subject: AI UI Generator Assignment – VISHWAJEET KUMAR
 
 Include:
 
-GitHub repository link
+GitHub repository link: https://github.com/thevk70/AI_UI_GENERATOR.git
 
-Deployed app URL
+Deployed app URL: https://ai-ui-generator-10.onrender.com/
 
-Demo video link (optional but recommended)
+Demo video link: https://1drv.ms/u/c/08318d0f6c6fbe50/IQBBF6x8KQO1TaM51L66TGR4AXkL9muRzq04ZcvvdaDEyFk?e=KBkxEh
 
 🙌 Final Notes
 
