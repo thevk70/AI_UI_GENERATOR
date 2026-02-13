@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://ai-ui-generator-cbso.onrender.com/api";
 
 export async function generateUI(prompt) {
   const res = await fetch(`${API_URL}/generate`, {
