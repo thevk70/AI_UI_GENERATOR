@@ -19,7 +19,10 @@ The system strictly enforces a fixed component library to ensure reproducibility
 ## 📸 Screenshots
 
 ![Landing](screenshots/Interface.png)
-![Video Clip](screenshots/AI_UI.mp4)
+
+## 🎥 Demo Video
+
+Watch here: https://1drv.ms/u/c/08318d0f6c6fbe50/IQBBF6x8KQO1TaM51L66TGR4AXkL9muRzq04ZcvvdaDEyFk?e=KBkxEh
 
 🎯 Goals
 
